@@ -82,23 +82,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSCQJSTD
 
-[Document3]
-DocumentPath=G:\Мой диск\2_Платы_Разработок\Блок_клапана\V1.8\pcb_MT3608\prodolnik.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
